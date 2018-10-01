@@ -310,3 +310,10 @@ nav ul li a {
   top: 25%;
   right: 7%;
 }
+
+@media and screen only (max-width: 864px) {
+  .banner {
+    width: 100%;
+    margin: 0 auto;
+  }
+}
